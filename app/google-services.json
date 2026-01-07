@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55998596658",
+    "project_id": "cobalogin1-f63fb",
+    "storage_bucket": "cobalogin1-f63fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55998596658:android:9ecfab4c7c0c1cc05cde2b",
+        "android_client_info": {
+          "package_name": "com.learn.cobalogin1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DTzr2L1No7SXR0aYUaF2D29_ABdd7jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
